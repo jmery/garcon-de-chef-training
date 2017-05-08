@@ -7,6 +7,11 @@ Creating machines for students to use in our [onsite Chef training](https://trai
 This project does the following:
   - Creates machines for [onsite Chef training](https://training.chef.io/training/onsite.html)
   - Creates a Markdown file that assigns machines to students
+  
+## Prerequisites
+
+* AWS command-line tools are installed
+* Terraform command-line tool is installed
 
 ## How To Use
 
